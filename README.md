@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://know-bridge-ai.vercel.app//">🌐 Live Demo</a> •
+  <a href="https://know-bridge-ai.vercel.app">🌐 Live Demo</a> •
   <a href="https://github.com/Sumit-pandey30/KnowBridge-AI">💻 GitHub Repository</a>
 </p>
 
